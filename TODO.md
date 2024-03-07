@@ -1,1 +1,0 @@
-- [ ] While script run in windows cmd, process.env.LANG is empty, but in vscode's terminal, it's not the same case.
