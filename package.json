@@ -1,0 +1,35 @@
+{
+    "name": "os-locale-ex",
+    "version": "1.0.0",
+    "description": "Get the system locale (An extended CommonJS version of os-locale)",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "rollup -c rollup.config.js"
+    },
+    "keywords": [
+        "system",
+        "language",
+        "locale",
+        "nodejs",
+        "os"
+    ],
+    "files": [
+        "dist/index.js"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "os-locale": "^6.0.2"
+    },
+    "devDependencies": {
+        "@rollup/plugin-commonjs": "^24.1.0",
+        "@rollup/plugin-json": "^6.1.0",
+        "@rollup/plugin-node-resolve": "^15.0.2",
+        "@rollup/plugin-typescript": "^11.1.0",
+        "@types/node": "^20.11.25",
+        "rollup": "^3.23.0",
+        "tslib": "^2.5.2",
+        "typescript": "^5.0.4"
+    }
+}
