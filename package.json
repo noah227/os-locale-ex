@@ -1,6 +1,6 @@
 {
     "name": "os-locale-ex",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Get the system locale (An extended CommonJS version of os-locale)",
     "main": "dist/index.js",
     "scripts": {
@@ -26,6 +26,7 @@
         "@rollup/plugin-commonjs": "^24.1.0",
         "@rollup/plugin-json": "^6.1.0",
         "@rollup/plugin-node-resolve": "^15.0.2",
+        "@rollup/plugin-terser": "^0.4.4",
         "@rollup/plugin-typescript": "^11.1.0",
         "@types/node": "^20.11.25",
         "rollup": "^3.23.0",
