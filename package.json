@@ -1,6 +1,6 @@
 {
     "name": "os-locale-ex",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Get the system locale (An extended CommonJS version of os-locale)",
     "main": "dist/index.js",
     "scripts": {
@@ -17,6 +17,9 @@
     "files": [
         "dist/index.js"
     ],
+    "repository": {
+        "url": "https://github.com/noah227/os-locale-ex"
+    },
     "author": "",
     "license": "MIT",
     "dependencies": {
