@@ -1,1 +1,1 @@
-* Process.env.LANG in windows cmd is empty, but in vscode's terminal, it's not the same case.
+* process.env.LANG in windows cmd is empty, but in vscode's terminal, it's not the same case.
