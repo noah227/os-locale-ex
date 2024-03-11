@@ -1,6 +1,9 @@
 # os-locale-ex
 
 > A CommonJS version of [os-locale](https://www.npmjs.com/package/os-locale)
+> 
+> **Remind**: If your `node version` >= 16, you'll don't need this anymore, 
+> just set type="module" in your package.json to enable `esm support`
 
 ## Usage
 
